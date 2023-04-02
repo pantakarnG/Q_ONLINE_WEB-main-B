@@ -1,0 +1,23 @@
+.ImgItem{
+    position: relative;
+    color: white;
+    border-radius: 10px;
+    justify-content: center;
+  
+    
+ 
+    
+  }
+
+  .Imgs{
+    height: 300px;
+    justify-content: center;
+  }
+  .p{
+    margin-top: 20px;
+    text-align: center;
+  }
+  .content4{
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
